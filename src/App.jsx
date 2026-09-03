@@ -147,7 +147,6 @@ function ChatPanel({ open, onClose }) {
 }, []);
 
 
-
   return (
     <div style={{
       position:"fixed", bottom:0, right:0, width:340, height:500,
